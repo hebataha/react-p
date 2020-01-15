@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/hebataha/react-pro/static/css/main.b8fce3cc.chunk.css",
+    "main.js": "/hebataha/react-pro/static/js/main.d272283c.chunk.js",
+    "main.js.map": "/hebataha/react-pro/static/js/main.d272283c.chunk.js.map",
+    "runtime-main.js": "/hebataha/react-pro/static/js/runtime-main.83be7fad.js",
+    "runtime-main.js.map": "/hebataha/react-pro/static/js/runtime-main.83be7fad.js.map",
+    "static/js/2.c61c7936.chunk.js": "/hebataha/react-pro/static/js/2.c61c7936.chunk.js",
+    "static/js/2.c61c7936.chunk.js.map": "/hebataha/react-pro/static/js/2.c61c7936.chunk.js.map",
+    "index.html": "/hebataha/react-pro/index.html",
+    "precache-manifest.58c0442ca6da916410ef472c64fd79eb.js": "/hebataha/react-pro/precache-manifest.58c0442ca6da916410ef472c64fd79eb.js",
+    "service-worker.js": "/hebataha/react-pro/service-worker.js",
+    "static/css/main.b8fce3cc.chunk.css.map": "/hebataha/react-pro/static/css/main.b8fce3cc.chunk.css.map",
+    "static/js/2.c61c7936.chunk.js.LICENSE": "/hebataha/react-pro/static/js/2.c61c7936.chunk.js.LICENSE",
+    "static/media/Subtraction.svg": "/hebataha/react-pro/static/media/Subtraction.e0b1fa39.svg",
+    "static/media/ad.png": "/hebataha/react-pro/static/media/ad.cd4b936f.png",
+    "static/media/all.svg": "/hebataha/react-pro/static/media/all.b5e0c8b8.svg",
+    "static/media/facebook.svg": "/hebataha/react-pro/static/media/facebook.626f41f3.svg",
+    "static/media/forest.jpeg": "/hebataha/react-pro/static/media/forest.0397a71e.jpeg",
+    "static/media/instagram.svg": "/hebataha/react-pro/static/media/instagram.68685c42.svg",
+    "static/media/left.png": "/hebataha/react-pro/static/media/left.948c5dbf.png",
+    "static/media/p.jpeg": "/hebataha/react-pro/static/media/p.bca21e56.jpeg",
+    "static/media/pinterest.svg": "/hebataha/react-pro/static/media/pinterest.0f9c6b30.svg",
+    "static/media/pp.jpeg": "/hebataha/react-pro/static/media/pp.831f65f2.jpeg",
+    "static/media/re.png": "/hebataha/react-pro/static/media/re.cb81e21e.png",
+    "static/media/slide.png": "/hebataha/react-pro/static/media/slide.b24664ab.png",
+    "static/media/twitter.svg": "/hebataha/react-pro/static/media/twitter.6900fa70.svg",
+    "static/media/user.svg": "/hebataha/react-pro/static/media/user.e3a20c0a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83be7fad.js",
+    "static/js/2.c61c7936.chunk.js",
+    "static/css/main.b8fce3cc.chunk.css",
+    "static/js/main.d272283c.chunk.js"
+  ]
+}
